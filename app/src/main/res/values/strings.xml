@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Formulas</string>
+
+    <string name="opc_darkmode">Modo oscuro</string>
+    <string name="formulas">Formulas</string>
+    <string name="verificar">Verificar</string>
+    <string name="valor_requerido">Se requiere un número</string>
+    <string name="ingresa_valor">Por favor ingresa un número</string>
+    <string name="si_primo">¡El resultado:</string>
+    <string name="hint">Número</string>
+    <string name="desc_fondo">Fondo</string>
+    <string name="Ir">Ir</string>
+    <string name="valor1">0</string>
+    <string name="calcular">calcular</string>
+    <string name="valor2">0</string>
+    <string name="valor3">0</string>
+
+</resources>
